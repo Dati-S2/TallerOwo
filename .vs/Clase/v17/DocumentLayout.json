@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\damar\\OneDrive\\Documents\\Taller 2D\\Clase\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B373E130-6DF9-493A-8E51-76CE29FA89B4}|Clase.csproj|c:\\users\\damar\\onedrive\\documents\\taller 2d\\clase\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B373E130-6DF9-493A-8E51-76CE29FA89B4}|Clase.csproj|solutionrelative:circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B373E130-6DF9-493A-8E51-76CE29FA89B4}|Clase.csproj|c:\\users\\damar\\onedrive\\documents\\taller 2d\\clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B373E130-6DF9-493A-8E51-76CE29FA89B4}|Clase.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B373E130-6DF9-493A-8E51-76CE29FA89B4}|Clase.csproj|c:\\users\\damar\\onedrive\\documents\\taller 2d\\clase\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B373E130-6DF9-493A-8E51-76CE29FA89B4}|Clase.csproj|solutionrelative:rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B373E130-6DF9-493A-8E51-76CE29FA89B4}|Clase.csproj|c:\\users\\damar\\onedrive\\documents\\taller 2d\\clase\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B373E130-6DF9-493A-8E51-76CE29FA89B4}|Clase.csproj|solutionrelative:triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\damar\\OneDrive\\Documents\\Taller 2D\\Clase\\Circulo.cs",
+              "RelativeDocumentMoniker": "Circulo.cs",
+              "ToolTip": "C:\\Users\\damar\\OneDrive\\Documents\\Taller 2D\\Clase\\Circulo.cs",
+              "RelativeToolTip": "Circulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T22:56:55.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\damar\\OneDrive\\Documents\\Taller 2D\\Clase\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "Rectangulo.cs",
+              "ToolTip": "C:\\Users\\damar\\OneDrive\\Documents\\Taller 2D\\Clase\\Rectangulo.cs",
+              "RelativeToolTip": "Rectangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T22:53:57.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\damar\\OneDrive\\Documents\\Taller 2D\\Clase\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Triangulo.cs",
+              "ToolTip": "C:\\Users\\damar\\OneDrive\\Documents\\Taller 2D\\Clase\\Triangulo.cs",
+              "RelativeToolTip": "Triangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T22:22:11.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\damar\\OneDrive\\Documents\\Taller 2D\\Clase\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\damar\\OneDrive\\Documents\\Taller 2D\\Clase\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T20:47:36.031Z",
               "EditorCaption": ""

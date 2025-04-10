@@ -1,0 +1,7 @@
+C:\Users\damar\OneDrive\Documents\Taller 2D\Clase\bin\Debug\Clase.exe.config
+C:\Users\damar\OneDrive\Documents\Taller 2D\Clase\bin\Debug\Clase.exe
+C:\Users\damar\OneDrive\Documents\Taller 2D\Clase\bin\Debug\Clase.pdb
+C:\Users\damar\OneDrive\Documents\Taller 2D\Clase\obj\Debug\Clase.csproj.AssemblyReference.cache
+C:\Users\damar\OneDrive\Documents\Taller 2D\Clase\obj\Debug\Clase.csproj.CoreCompileInputs.cache
+C:\Users\damar\OneDrive\Documents\Taller 2D\Clase\obj\Debug\Clase.exe
+C:\Users\damar\OneDrive\Documents\Taller 2D\Clase\obj\Debug\Clase.pdb
