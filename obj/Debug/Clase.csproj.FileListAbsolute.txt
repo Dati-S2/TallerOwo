@@ -5,3 +5,10 @@ C:\Users\damar\OneDrive\Documents\Taller 2D\Clase\obj\Debug\Clase.csproj.Assembl
 C:\Users\damar\OneDrive\Documents\Taller 2D\Clase\obj\Debug\Clase.csproj.CoreCompileInputs.cache
 C:\Users\damar\OneDrive\Documents\Taller 2D\Clase\obj\Debug\Clase.exe
 C:\Users\damar\OneDrive\Documents\Taller 2D\Clase\obj\Debug\Clase.pdb
+C:\Users\alumnotlsch\Documents\Visual Studio 2022\Proyecto\TallerOwo\bin\Debug\Clase.exe.config
+C:\Users\alumnotlsch\Documents\Visual Studio 2022\Proyecto\TallerOwo\bin\Debug\Clase.exe
+C:\Users\alumnotlsch\Documents\Visual Studio 2022\Proyecto\TallerOwo\bin\Debug\Clase.pdb
+C:\Users\alumnotlsch\Documents\Visual Studio 2022\Proyecto\TallerOwo\obj\Debug\Clase.csproj.AssemblyReference.cache
+C:\Users\alumnotlsch\Documents\Visual Studio 2022\Proyecto\TallerOwo\obj\Debug\Clase.csproj.CoreCompileInputs.cache
+C:\Users\alumnotlsch\Documents\Visual Studio 2022\Proyecto\TallerOwo\obj\Debug\Clase.exe
+C:\Users\alumnotlsch\Documents\Visual Studio 2022\Proyecto\TallerOwo\obj\Debug\Clase.pdb
